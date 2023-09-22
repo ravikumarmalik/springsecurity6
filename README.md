@@ -52,7 +52,7 @@
 
 
 
-# =======================SPRING SECURITY======================================
+# ============SPRING SECURITY=============
 
 # What is spring security ?
 Spring Security is a powerful and highly customizable security framework for building Java-based applications. It is a part of the larger Spring Framework, which provides comprehensive infrastructure support for developing Java applications. Spring Security focuses specifically on addressing security concerns within your application, making it easier to implement features like authentication, authorization, and protection against common security vulnerabilities.
@@ -68,7 +68,8 @@ It allows you to control access to specific resources or actions within your app
 # Security Filters: 
 Spring Security uses a series of filters to intercept incoming HTTP requests and apply security checks. These filters handle tasks such as authentication, session management, CSRF protection, and more.
 
-# Session Management: You can configure and manage user sessions, including handling session fixation attacks, tracking active sessions, and specifying session timeout policies.
+# Session Management:
+You can configure and manage user sessions, including handling session fixation attacks, tracking active sessions, and specifying session timeout policies.
 
 # Cross-Site Request Forgery (CSRF) Protection:
 Spring Security provides built-in CSRF protection to prevent common web application security vulnerabilities related to cross-site request forgery.
@@ -173,7 +174,7 @@ In summary, Spring Security provides a robust and flexible framework for impleme
 
 
 
-# ====================
+# ============
 
 # What is Spring Security, and why is it essential in web application development?
 
