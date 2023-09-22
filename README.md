@@ -1,4 +1,4 @@
-# Spring Security Zero to Master along with JWT,OAUTH2
+# Spring Security along with JWT,OAUTH2
 
 
 
